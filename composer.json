@@ -1,0 +1,32 @@
+{
+  "name": "yuiphp/yui",
+  "type": "project",
+  "minimum-stability": "dev",
+  "description": "The skeleton application for the YuiPHP framework",
+  "keywords": [
+    "framework",
+    "yui"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": "^8.1",
+    "yuiphp/core": "dev-main"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+  "scripts": {},
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "allow-plugins": {}
+  }
+}

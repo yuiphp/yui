@@ -13,7 +13,7 @@ yarn-error.log
 /public/storage
 /storage/*.key
 /vendor
-
+composer.lock
 # Env Files
 .env
 .env.backup
