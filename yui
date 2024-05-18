@@ -1,0 +1,16 @@
+<?php
+/**
+ * This file is the entry point for the console application.
+ */
+
+// declare(strict_types=1);
+
+// require './vendor/autoload.php';
+
+// use Yui\Core\Console\Kernel;
+
+// $arguments = $_SERVER['argv'];
+
+// $kernel = new Kernel($argv);
+
+// $kernel->boot();
