@@ -31,6 +31,16 @@ Yui is a work in progress, and we have a lot of exciting features planned for th
 - **CLI Support**: Interact with your application through a robust Command Line Interface (CLI). (WIP)
 - **Minimal External Dependencies**: Rely on a minimal number of external dependencies to keep your application lightweight and efficient. (WIP)
 
+## Installation
+
+To get started with Yui in your project, simply follow these simple steps:
+
+<em>The use of the framework is not yet recommended as it is still under development</em>
+
+```bash
+composer create-project yuiphp/yui <project-name> -s dev
+```
+
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests, report issues, or suggest new features. Before submitting a pull request (PR), please make sure to follow the contribution guidelines.
